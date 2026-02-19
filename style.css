@@ -1,0 +1,308 @@
+/* Voiceflow Chat Widget - CoffeeBlend Theme */
+
+/* Main widget container */
+.voiceflow-widget {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+/* Launcher button (floating button) */
+.voiceflow-launcher {
+  background-color: #5C3D2E !important;
+  border-radius: 50% !important;
+  box-shadow: 0 4px 12px rgba(92, 61, 46, 0.3) !important;
+}
+
+.voiceflow-launcher:hover {
+  background-color: #704F3A !important;
+  box-shadow: 0 6px 16px rgba(92, 61, 46, 0.4) !important;
+}
+
+.voiceflow-launcher svg {
+  fill: #F5F0E8 !important;
+}
+
+/* Chat window header */
+.voiceflow-chatbot-header {
+  background: linear-gradient(135deg, #704F3A 0%, #8B6F47 100%) !important;
+  color: #F5F0E8 !important;
+  border-radius: 16px 16px 0 0 !important;
+}
+
+.voiceflow-chatbot-header-title {
+  color: #F5F0E8 !important;
+  font-weight: 600 !important;
+}
+
+.voiceflow-chatbot-header-subtitle {
+  color: #E8DFD0 !important;
+  font-size: 12px !important;
+}
+
+/* Close button in header */
+.voiceflow-chatbot-header-close {
+  color: #F5F0E8 !important;
+}
+
+.voiceflow-chatbot-header-close:hover {
+  background-color: rgba(245, 240, 232, 0.1) !important;
+}
+
+/* Chat messages container */
+.voiceflow-chatbot-messages {
+  background-color: #FEFBF8 !important;
+}
+
+/* Agent/Bot message bubbles */
+.voiceflow-message-agent,
+.voiceflow-message-bot {
+  background-color: #F5F0E8 !important;
+  color: #3D2817 !important;
+  border-radius: 8px !important;
+  border: 1px solid #E8DFD0 !important;
+  box-shadow: 0 2px 4px rgba(112, 79, 58, 0.08) !important;
+}
+
+.voiceflow-message-agent-text,
+.voiceflow-message-bot-text {
+  color: #3D2817 !important;
+}
+
+.voiceflow-message-agent-avatar,
+.voiceflow-message-bot-avatar {
+  background-color: #704F3A !important;
+}
+
+/* User message bubbles */
+.voiceflow-message-user {
+  background-color: #8B6F47 !important;
+  color: #FFFFFF !important;
+  border-radius: 8px !important;
+  box-shadow: 0 2px 4px rgba(139, 111, 71, 0.2) !important;
+}
+
+.voiceflow-message-user-text {
+  color: #FFFFFF !important;
+}
+
+/* Input field */
+.voiceflow-input-field {
+  background-color: #FFFFFF !important;
+  border: 1px solid #D4C5B0 !important;
+  border-radius: 8px !important;
+  color: #3D2817 !important;
+}
+
+.voiceflow-input-field:focus {
+  border-color: #704F3A !important;
+  box-shadow: 0 0 0 3px rgba(112, 79, 58, 0.1) !important;
+  outline: none !important;
+}
+
+.voiceflow-input-field::placeholder {
+  color: #B8A892 !important;
+}
+
+/* Send button */
+.voiceflow-send-button {
+  background-color: #704F3A !important;
+  border-radius: 8px !important;
+  color: #F5F0E8 !important;
+}
+
+.voiceflow-send-button:hover {
+  background-color: #5C3D2E !important;
+  box-shadow: 0 4px 8px rgba(92, 61, 46, 0.2) !important;
+}
+
+.voiceflow-send-button:active {
+  background-color: #4A2E22 !important;
+}
+
+/* Loading indicator */
+.voiceflow-loading-indicator {
+  background-color: #704F3A !important;
+}
+
+.voiceflow-loading-dot {
+  background-color: #704F3A !important;
+}
+
+/* Quick reply buttons */
+.voiceflow-quick-reply {
+  background-color: #F5F0E8 !important;
+  border: 1px solid #D4C5B0 !important;
+  color: #3D2817 !important;
+  border-radius: 8px !important;
+}
+
+.voiceflow-quick-reply:hover {
+  background-color: #E8DFD0 !important;
+  border-color: #704F3A !important;
+}
+
+.voiceflow-quick-reply:active {
+  background-color: #D4C5B0 !important;
+}
+
+/* Button components */
+.voiceflow-button {
+  background-color: #704F3A !important;
+  color: #F5F0E8 !important;
+  border-radius: 8px !important;
+  border: none !important;
+  font-weight: 500 !important;
+}
+
+.voiceflow-button:hover {
+  background-color: #8B6F47 !important;
+}
+
+.voiceflow-button:active {
+  background-color: #5C3D2E !important;
+}
+
+/* Secondary button (outline) */
+.voiceflow-button-secondary {
+  background-color: transparent !important;
+  border: 1px solid #704F3A !important;
+  color: #704F3A !important;
+  border-radius: 8px !important;
+}
+
+.voiceflow-button-secondary:hover {
+  background-color: #F5F0E8 !important;
+  border-color: #5C3D2E !important;
+  color: #5C3D2E !important;
+}
+
+/* Chat window container */
+.voiceflow-chatbot {
+  border-radius: 16px !important;
+  box-shadow: 0 8px 32px rgba(112, 79, 58, 0.15) !important;
+}
+
+/* Scrollbar styling */
+.voiceflow-chatbot-messages::-webkit-scrollbar {
+  width: 6px !important;
+}
+
+.voiceflow-chatbot-messages::-webkit-scrollbar-track {
+  background: transparent !important;
+}
+
+.voiceflow-chatbot-messages::-webkit-scrollbar-thumb {
+  background-color: #D4C5B0 !important;
+  border-radius: 3px !important;
+}
+
+.voiceflow-chatbot-messages::-webkit-scrollbar-thumb:hover {
+  background-color: #B8A892 !important;
+}
+
+/* Typing indicator */
+.voiceflow-typing-indicator {
+  color: #704F3A !important;
+}
+
+.voiceflow-typing-dot {
+  background-color: #704F3A !important;
+}
+
+/* Code blocks (if used) */
+.voiceflow-code-block {
+  background-color: #3D2817 !important;
+  color: #F5F0E8 !important;
+  border-radius: 8px !important;
+  border: 1px solid #704F3A !important;
+}
+
+/* Links within messages */
+.voiceflow-message a {
+  color: #704F3A !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid #704F3A !important;
+}
+
+.voiceflow-message a:hover {
+  color: #5C3D2E !important;
+  border-bottom-color: #5C3D2E !important;
+}
+
+/* Divider line */
+.voiceflow-divider {
+  background-color: #D4C5B0 !important;
+}
+
+/* Form inputs */
+.voiceflow-form-input {
+  background-color: #FFFFFF !important;
+  border: 1px solid #D4C5B0 !important;
+  color: #3D2817 !important;
+  border-radius: 8px !important;
+}
+
+.voiceflow-form-input:focus {
+  border-color: #704F3A !important;
+  outline: none !important;
+}
+
+.voiceflow-form-label {
+  color: #3D2817 !important;
+}
+
+/* Animations */
+@keyframes voiceflow-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.voiceflow-message {
+  animation: voiceflow-fade-in 0.3s ease-out !important;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .voiceflow-chatbot {
+    border-radius: 12px !important;
+  }
+
+  .voiceflow-message {
+    border-radius: 6px !important;
+  }
+
+  .voiceflow-input-field {
+    border-radius: 6px !important;
+  }
+}
+
+/* Error states */
+.voiceflow-error-message {
+  background-color: #FFE8E8 !important;
+  color: #8B4545 !important;
+  border-left: 4px solid #C75050 !important;
+  border-radius: 8px !important;
+}
+
+/* Success states */
+.voiceflow-success-message {
+  background-color: #E8F5E8 !important;
+  color: #458B45 !important;
+  border-left: 4px solid #50C750 !important;
+  border-radius: 8px !important;
+}
+
+/* Warning states */
+.voiceflow-warning-message {
+  background-color: #FFF8E8 !important;
+  color: #8B7D45 !important;
+  border-left: 4px solid #C7B050 !important;
+  border-radius: 8px !important;
+}

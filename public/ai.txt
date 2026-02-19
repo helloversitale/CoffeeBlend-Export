@@ -1,0 +1,168 @@
+# CoffeeBlend - Premium Coffee Experience
+
+## Overview
+
+CoffeeBlend is a premium coffee café offering artisan roasted, single-origin coffee beans and exceptional brewing experiences. Founded in 2020, we are dedicated to crafting the perfect cup of coffee for every customer.
+
+### Key Metrics
+- **Rating:** 5.0/5.0 stars
+- **Customer Reviews:** 130,000+
+- **Quality Score:** 4.8/5.0
+- **Available Blends:** 100+
+- **Coffee Origins:** 20+
+
+---
+
+## Hero Section
+
+### Main Headline
+Discover Your Perfect Cup
+
+*Premium Coffee Experience*
+
+CoffeeBlend offers dynamic personalized headlines based on your referral source. Whether you're coming from Google, Facebook, Instagram, email, or other channels, our message is tailored to you.
+
+#### Popular Headlines by Source:
+- **Google:** Find Your Perfect Coffee Match
+- **Facebook:** Join Our Coffee Community
+- **Instagram:** Brew Like a Barista
+- **Email:** Welcome Back Coffee Lover
+- **Default:** Discover Your Perfect Cup
+
+---
+
+## Our Services
+
+CoffeeBlend provides comprehensive coffee solutions designed to deliver exceptional experiences:
+
+### 1. Fast Brewing
+Expert brewing techniques for the perfect cup in minutes. Our trained baristas use precision methods and high-quality equipment to ensure consistent excellence in every cup.
+
+### 2. Premium Quality
+Single-origin beans sourced from the finest farms worldwide. We carefully select and roast each batch in small quantities to ensure maximum flavor and freshness.
+
+### 3. Free Delivery
+Complimentary shipping on all orders over $50. We deliver quickly and securely to ensure your coffee arrives in perfect condition.
+
+### 4. Expert Support
+Personalized recommendations from our coffee specialists. Our knowledgeable team helps you discover new blends and brewing methods tailored to your preferences.
+
+---
+
+## Location & Contact Information
+
+### Visit Our Café
+
+**Address:**
+123 Coffee Street
+Brew City, BC 12345
+
+**Phone:** (555) 123-4567
+
+**Email:** hello@coffeeblend.com
+
+---
+
+## Opening Hours
+
+| Day | Hours |
+|-----|-------|
+| Monday | 6:00 AM - 8:00 PM |
+| Tuesday | 6:00 AM - 8:00 PM |
+| Wednesday | 6:00 AM - 8:00 PM |
+| Thursday | 6:00 AM - 8:00 PM |
+| Friday | 6:00 AM - 9:00 PM |
+| Saturday | 7:00 AM - 9:00 PM |
+| Sunday | 7:00 AM - 7:00 PM |
+
+---
+
+## Featured Offering
+
+### Artisan Roasted - Small Batch Perfection
+
+Our signature offering combines the best of coffee craftsmanship. Each batch is small-lot roasted to perfection, ensuring exceptional quality and unique flavor profiles.
+
+**Free shipping on orders over $50**
+
+---
+
+## About CoffeeBlend
+
+CoffeeBlend has been crafting exceptional coffee experiences since 2020. We are committed to:
+
+- **Quality:** Sourcing only the finest single-origin coffee beans
+- **Sustainability:** Working directly with ethical coffee farmers
+- **Expertise:** Training our baristas in advanced brewing techniques
+- **Community:** Building a passionate community of coffee enthusiasts
+- **Innovation:** Continuously exploring new blends and brewing methods
+
+---
+
+## Call to Action
+
+Experience Premium Coffee Today
+
+Join thousands of coffee lovers who have discovered their perfect blend with CoffeeBlend. Order now and receive free shipping on orders over $50.
+
+---
+
+## Quick Links
+
+### Navigation
+- Services
+- Opening Hours
+- Contact Us
+- About Us
+
+### Social Media
+- Facebook: facebook.com/coffeeblend
+- Instagram: instagram.com/coffeeblend
+- Twitter: twitter.com/coffeeblend
+
+### Company
+- Privacy Policy
+- Terms of Service
+- Cookie Policy
+- Returns & Refunds
+
+---
+
+## Accessibility & Technology
+
+CoffeeBlend's website features:
+
+- Dynamic headline technology powered by URL parameters (ref parameter)
+- Admin panel for managing headline content
+- Voiceflow AI chat widget for customer support
+- Responsive design optimized for mobile and desktop
+- Coffee-themed custom styling
+
+### Answer Engine Optimization
+
+This document (ai.txt) is provided for optimal compatibility with AI search engines, LLMs, and advanced web crawlers. All content is presented in clean, structured Markdown format for easy parsing, citation, and analysis.
+
+Content Source: CoffeeBlend Official Website
+Last Updated: February 2024
+
+---
+
+## Special Promotions
+
+**Free Shipping:** Orders over $50
+**Bundle Deals:** Available on multi-pack purchases
+**Subscription Service:** Monthly coffee delivery with exclusive blends
+
+---
+
+## Customer Support
+
+Available via:
+- Phone: (555) 123-4567
+- Email: hello@coffeeblend.com
+- Live Chat: Voiceflow AI widget on website
+- In-store: Visit us at 123 Coffee Street
+
+---
+
+End of CoffeeBlend Content - Answer Engine Optimized
